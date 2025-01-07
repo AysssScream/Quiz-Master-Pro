@@ -87,5 +87,10 @@ Our development process followed a structured timeline:
 - **November 2023**: Core functionality development
 - **December 2023**: System enhancement and validation
 
-## 🚀 Installation
-1. Clone the repository
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=footer&animation=fadeIn" width="100%"/>
+  
+  <div style="margin-top: -100px; margin-bottom: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&lines=Developed+with+%E2%9D%A4%EF%B8%8F+by+Group+JOMAJEJO" alt="Footer Text"/>
+  </div>
+</div>
