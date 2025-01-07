@@ -33,7 +33,7 @@ The Online Quiz System transforms traditional assessment methods by providing an
 - 🏆 User Rankings
 - 🔍 Search Functionality
 
-- ## ✨ Features
+## ✨ Features
 
 <div align="center">
   <table border="0" width="100%">
@@ -54,10 +54,10 @@ The Online Quiz System transforms traditional assessment methods by providing an
         <br>
         <h3>📊 Administrative Dashboard</h3>
         <ul align="left">
-          <li>Comprehensive admin controls</li>
           <li>User management system</li>
           <li>Activity monitoring</li>
           <li>System configuration</li>
+          <li>Analytics overview</li>
         </ul>
       </td>
     </tr>
@@ -68,9 +68,9 @@ The Online Quiz System transforms traditional assessment methods by providing an
         <h3>📝 Dynamic Quiz Creation</h3>
         <ul align="left">
           <li>Multiple question types</li>
-          <li>Customizable time limits</li>
+          <li>Customizable settings</li>
           <li>Question bank management</li>
-          <li>Category-based organization</li>
+          <li>Quiz templates</li>
         </ul>
       </td>
       <td width="50%" align="center">
@@ -78,10 +78,10 @@ The Online Quiz System transforms traditional assessment methods by providing an
         <br>
         <h3>🎯 Instant Results & Feedback</h3>
         <ul align="left">
-          <li>Real-time score calculation</li>
-          <li>Detailed answer explanations</li>
-          <li>Performance analytics</li>
-          <li>Progress visualization</li>
+          <li>Real-time scoring</li>
+          <li>Detailed feedback</li>
+          <li>Answer review</li>
+          <li>Performance summary</li>
         </ul>
       </td>
     </tr>
@@ -93,8 +93,8 @@ The Online Quiz System transforms traditional assessment methods by providing an
         <ul align="left">
           <li>Performance history</li>
           <li>Learning analytics</li>
-          <li>Achievement badges</li>
           <li>Progress reports</li>
+          <li>Improvement tracking</li>
         </ul>
       </td>
       <td width="50%" align="center">
@@ -103,7 +103,7 @@ The Online Quiz System transforms traditional assessment methods by providing an
         <h3>🏆 User Rankings</h3>
         <ul align="left">
           <li>Global leaderboard</li>
-          <li>Category-wise ranking</li>
+          <li>Performance ranking</li>
           <li>Achievement system</li>
           <li>Competitive features</li>
         </ul>
@@ -115,21 +115,10 @@ The Online Quiz System transforms traditional assessment methods by providing an
         <br>
         <h3>🔍 Search Functionality</h3>
         <ul align="left">
-          <li>Advanced search filters</li>
-          <li>Category-based search</li>
-          <li>Quick access to quizzes</li>
-          <li>Search history</li>
-        </ul>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
-        <br>
-        <h3>🎨 Additional Features</h3>
-        <ul align="left">
-          <li>Responsive design</li>
-          <li>Dark/Light mode</li>
-          <li>Performance optimization</li>
-          <li>Regular updates</li>
+          <li>Quick quiz search</li>
+          <li>Filter options</li>
+          <li>Category browsing</li>
+          <li>Easy navigation</li>
         </ul>
       </td>
     </tr>
