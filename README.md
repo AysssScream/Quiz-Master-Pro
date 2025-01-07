@@ -21,16 +21,6 @@
 </div>
 
 
-
-## 📋 Table of Contents
-- [Overview](#-overview)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Background](#-project-background)
-- [Development Strategy](#-development-strategy)
-- [Installation](#-installation)
-- [Team](#-team)
-
 ## 🔍 Overview
 The Online Quiz System transforms traditional assessment methods by providing an accessible, efficient, and interactive platform for conducting evaluations. Built with PHP and MySQL, this system offers immediate feedback, diverse question types, and comprehensive administrative tools.
 
@@ -72,13 +62,6 @@ The Online Quiz System transforms traditional assessment methods by providing an
   </table>
 </div>
 
-## 📚 Project Background
-The system addresses the evolving needs of modern education by:
-- Providing location-independent accessibility
-- Delivering instant feedback
-- Supporting various question formats
-- Reducing administrative workload
-- Ensuring data security and integrity
 
 ## 📅 Development Strategy
 Our development process followed a structured timeline:
@@ -87,9 +70,10 @@ Our development process followed a structured timeline:
 - **November 2023**: Core functionality development
 - **December 2023**: System enhancement and validation
 
+<br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=header&animation=fadeIn" width="100%"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&lines=Developed+with+%E2%9D%A4%EF%B8%8F+by+Group+JOMAJEJO" alt="Footer Text"/>
-  <p style="color: #6F3DFF; font-family: 'Poppins', sans-serif; font-size: 14px;">© 2023 Quiz Master Pro. All Rights Reserved.</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=16&pause=1000&color=6F3DFF&center=true&vCenter=true&width=400&lines=©+2023+Quiz+Master+Pro.+All+Rights+Reserved." alt="Copyright Text"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
