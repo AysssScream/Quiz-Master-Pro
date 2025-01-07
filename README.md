@@ -1,6 +1,9 @@
 <div align="center">
   <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=header&text=Online%20Quiz%20System&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=header&text=Quiz%20Master%20Pro&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+  <!-- Subtitle -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=435&lines=Online+Quiz+System" alt="Subtitle"/>
 
   <!-- Project Badge -->
   <img src="https://img.shields.io/badge/Developed_by-JOMAJEJO-6F3DFF?style=for-the-badge"/>
@@ -19,7 +22,7 @@
 </div>
 
 ## 📋 Project Overview
-An innovative online quiz system developed using PHP and MySQL, designed to revolutionize traditional evaluation methods. This system offers a seamless digital experience with real-time feedback, diverse question formats, and comprehensive progress tracking capabilities.
+Quiz Master Pro is an innovative online quiz system developed using PHP and MySQL, designed to revolutionize traditional evaluation methods. This system offers a seamless digital experience with real-time feedback, diverse question formats, and comprehensive progress tracking capabilities.
 
 ## 🎯 Key Features
 - Secure User Authentication System
@@ -74,12 +77,35 @@ An innovative online quiz system developed using PHP and MySQL, designed to revo
 - System testing and refinement
 
 ## 💡 Project Background
-The Online Quiz System addresses modern educational needs by providing:
+Quiz Master Pro addresses modern educational needs by providing:
 - Flexible access across different locations
 - Immediate feedback mechanisms
 - Multiple question format support
 - Streamlined administrative processes
 - Enhanced data security measures
+
+## 🔄 Development Strategy
+1. **Initial Setup**
+   - Team collaboration environment
+   - Resource organization
+   - Project documentation
+
+2. **Design Phase**
+   - User interface mockups
+   - Database schema design
+   - System architecture planning
+
+3. **Implementation**
+   - User authentication system
+   - Administrative features
+   - Quiz management system
+   - Results tracking
+
+4. **Enhancement**
+   - Input validation
+   - Search functionality
+   - Ranking system
+   - Performance optimization
 
 ## 👥 Development Team
 <div align="center">
@@ -106,7 +132,7 @@ The Online Quiz System addresses modern educational needs by providing:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=15&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=435&lines=Copyright+%C2%A9+2023+JOMAJEJO.+All+rights+reserved." alt="Copyright"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=15&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=435&lines=Copyright+%C2%A9+2023+Quiz+Master+Pro.+All+rights+reserved." alt="Copyright"/>
   
   <!-- Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer" width="100%"/>
