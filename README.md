@@ -9,6 +9,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&lines=Interactive+Learning+Platform;Instant+Feedback+System;Secure+Assessment+Tool;User-Friendly+Interface;Comprehensive+Quiz+Management&repeat=true&duration=3000" alt="Typing SVG" />
   <br>
 
+  <!-- Educational/Development Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
+  <br>
+
   <div>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -24,11 +28,6 @@
   <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
   </div>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&animation=fadeIn" width="100%"/>
-</div>
-
-
 
 
 ## 📋 Table of Contents
