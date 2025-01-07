@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=190&section=header&text=📝%20QUIZ%20MASTER%20PRO&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Your%20Ultimate%20Online%20Quiz%20System&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=6F3DFF&height=150&section=header&text=📝%20QUIZ%20MASTER%20PRO&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
   <!-- Educational/Quiz Icons Animation -->
   <p align="center">
@@ -27,6 +27,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
+
 
 
 
