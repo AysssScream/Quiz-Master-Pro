@@ -64,67 +64,96 @@ The Online Quiz System transforms traditional assessment methods by providing an
 
 ## 📸 System Screenshots
 
-## 📸 System Screenshots
-
 <div align="center">
   <table border="0" width="100%">
-    <!-- Login and Registration -->
+    <!-- Login -->
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github.com/user-attachments/assets/e706e462-82a3-4bfa-a5a7-ce29021438e5" alt="Login Page" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <td align="center" style="padding: 20px;">
+        <img src="https://github.com/user-attachments/assets/e706e462-82a3-4bfa-a5a7-ce29021438e5" alt="Login Page" width="90%" style="border: 2px solid #6F3DFF; border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2); transition: transform 0.3s ease;">
       </td>
-      <td width="50%" align="center">
-        <img src="https://github.com/user-attachments/assets/c591b970-cdda-4dfb-b2b1-1925ca726217" alt="Registration Page" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </tr>
+
+    <!-- Registration -->
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <img src="https://github.com/user-attachments/assets/c591b970-cdda-4dfb-b2b1-1925ca726217" alt="Registration Page" width="90%" style="border: 2px solid #6F3DFF; border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2); transition: transform 0.3s ease;">
       </td>
     </tr>
 
     <!-- User Dashboard -->
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github.com/user-attachments/assets/aa27f8e0-d598-4f66-9314-4d841ebaac12" alt="User Dashboard" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <td align="center" style="padding: 20px;">
+        <img src="https://github.com/user-attachments/assets/aa27f8e0-d598-4f66-9314-4d841ebaac12" alt="User Dashboard" width="90%" style="border: 2px solid #6F3DFF; border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2); transition: transform 0.3s ease;">
       </td>
-      <td width="50%" align="center">
-        <img src="https://github.com/user-attachments/assets/12c06230-1d43-4a58-9732-e61cb8a4d42d" alt="Quiz Selection" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </tr>
+
+    <!-- Quiz Selection -->
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <img src="https://github.com/user-attachments/assets/12c06230-1d43-4a58-9732-e61cb8a4d42d" alt="Quiz Selection" width="90%" style="border: 2px solid #6F3DFF; border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2); transition: transform 0.3s ease;">
       </td>
     </tr>
 
     <!-- Quiz Interface -->
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github.com/user-attachments/assets/bf556a47-a20a-4fcb-b88f-85f0ffec491f" alt="Quiz Interface" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github.com/user-attachments/assets/9674ec3c-0f37-4046-9c9b-f97b068417da" alt="Quiz Results" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <td align="center" style="padding: 20px;">
+        <img src="https://github.com/user-attachments/assets/bf556a47-a20a-4fcb-b88f-85f0ffec491f" alt="Quiz Interface" width="90%" style="border: 2px solid #6F3DFF; border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2); transition: transform 0.3s ease;">
       </td>
     </tr>
 
-    <!-- Admin Features -->
+    <!-- Quiz Results -->
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github.com/user-attachments/assets/0a741c5a-ea26-4f98-902b-0cd53141012e" alt="Admin Dashboard" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github.com/user-attachments/assets/dfd531f8-6cbc-4053-9e46-d99e0528bb9b" alt="Quiz Management" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <td align="center" style="padding: 20px;">
+        <img src="https://github.com/user-attachments/assets/9674ec3c-0f37-4046-9c9b-f97b068417da" alt="Quiz Results" width="90%" style="border: 2px solid #6F3DFF; border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2); transition: transform 0.3s ease;">
       </td>
     </tr>
 
-    <!-- Additional Features -->
+    <!-- Admin Dashboard -->
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github.com/user-attachments/assets/983b14b3-fb88-4fc9-8bdf-0225343871e3" alt="User Management" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github.com/user-attachments/assets/b620e7d6-290a-41b3-b629-fa552ce1eac9" alt="Analytics" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <td align="center" style="padding: 20px;">
+        <img src="https://github.com/user-attachments/assets/0a741c5a-ea26-4f98-902b-0cd53141012e" alt="Admin Dashboard" width="90%" style="border: 2px solid #6F3DFF; border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2); transition: transform 0.3s ease;">
       </td>
     </tr>
 
-    <!-- System Features -->
+    <!-- Quiz Management -->
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github.com/user-attachments/assets/e2bd0c6d-b6fa-4948-971c-edd68baae210" alt="Question Bank" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <td align="center" style="padding: 20px;">
+        <img src="https://github.com/user-attachments/assets/dfd531f8-6cbc-4053-9e46-d99e0528bb9b" alt="Quiz Management" width="90%" style="border: 2px solid #6F3DFF; border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2); transition: transform 0.3s ease;">
       </td>
-      <td width="50%" align="center">
-        <img src="https://github.com/user-attachments/assets/2513316b-ddb1-42df-a3b0-15abf218ccc9" alt="Settings" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </tr>
+
+    <!-- User Management -->
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <img src="https://github.com/user-attachments/assets/983b14b3-fb88-4fc9-8bdf-0225343871e3" alt="User Management" width="90%" style="border: 2px solid #6F3DFF; border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2); transition: transform 0.3s ease;">
+      </td>
+    </tr>
+
+    <!-- Analytics -->
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <img src="https://github.com/user-attachments/assets/b620e7d6-290a-41b3-b629-fa552ce1eac9" alt="Analytics" width="90%" style="border: 2px solid #6F3DFF; border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2); transition: transform 0.3s ease;">
+      </td>
+    </tr>
+
+    <!-- Question Bank -->
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <img src="https://github.com/user-attachments/assets/e2bd0c6d-b6fa-4948-971c-edd68baae210" alt="Question Bank" width="90%" style="border: 2px solid #6F3DFF; border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2); transition: transform 0.3s ease;">
+      </td>
+    </tr>
+
+    <!-- Settings -->
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <img src="https://github.com/user-attachments/assets/2513316b-ddb1-42df-a3b0-15abf218ccc9" alt="Settings" width="90%" style="border: 2px solid #6F3DFF; border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2); transition: transform 0.3s ease;">
+      </td>
+    </tr>
+
+    <!-- Additional Feature -->
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <img src="https://github.com/user-attachments/assets/393be6f5-5193-4334-84ba-1496d81e0bb7" alt="Additional Feature" width="90%" style="border: 2px solid #6F3DFF; border-radius: 15px; padding: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2); transition: transform 0.3s ease;">
       </td>
     </tr>
   </table>
