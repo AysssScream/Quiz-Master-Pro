@@ -62,103 +62,91 @@ The Online Quiz System transforms traditional assessment methods by providing an
   </table>
 </div>
 
-## 📸 System Screenshots
+## 🖥️ System Screenshots
 
 <div align="center">
-<table>
-    <!-- Login -->
+  <br>
+  
+  <table>
     <tr>
-        <td align="center">
-            <img src="https://github.com/user-attachments/assets/e706e462-82a3-4bfa-a5a7-ce29021438e5" width="800px" style="border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2);">
-        </td>
+      <td align="center">
+        <kbd><img src="https://github.com/user-attachments/assets/e706e462-82a3-4bfa-a5a7-ce29021438e5" width="800"/></kbd>
+      </td>
     </tr>
-    
-    <!-- Registration -->
+    <tr><td><br></td></tr>
     <tr>
-        <td align="center">
-            <img src="https://github.com/user-attachments/assets/c591b970-cdda-4dfb-b2b1-1925ca726217" width="800px" style="border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2);">
-        </td>
+      <td align="center">
+        <kbd><img src="https://github.com/user-attachments/assets/c591b970-cdda-4dfb-b2b1-1925ca726217" width="800"/></kbd>
+      </td>
     </tr>
-
-    <!-- User Dashboard -->
+    <tr><td><br></td></tr>
     <tr>
-        <td align="center">
-            <img src="https://github.com/user-attachments/assets/aa27f8e0-d598-4f66-9314-4d841ebaac12" width="800px" style="border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2);">
-        </td>
+      <td align="center">
+        <kbd><img src="https://github.com/user-attachments/assets/aa27f8e0-d598-4f66-9314-4d841ebaac12" width="800"/></kbd>
+      </td>
     </tr>
-
-    <!-- Quiz Selection -->
+    <tr><td><br></td></tr>
     <tr>
-        <td align="center">
-            <img src="https://github.com/user-attachments/assets/12c06230-1d43-4a58-9732-e61cb8a4d42d" width="800px" style="border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2);">
-        </td>
+      <td align="center">
+        <kbd><img src="https://github.com/user-attachments/assets/12c06230-1d43-4a58-9732-e61cb8a4d42d" width="800"/></kbd>
+      </td>
     </tr>
-
-    <!-- Quiz Interface -->
+    <tr><td><br></td></tr>
     <tr>
-        <td align="center">
-            <img src="https://github.com/user-attachments/assets/bf556a47-a20a-4fcb-b88f-85f0ffec491f" width="800px" style="border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2);">
-        </td>
+      <td align="center">
+        <kbd><img src="https://github.com/user-attachments/assets/bf556a47-a20a-4fcb-b88f-85f0ffec491f" width="800"/></kbd>
+      </td>
     </tr>
-
-    <!-- Quiz Results -->
+    <tr><td><br></td></tr>
     <tr>
-        <td align="center">
-            <img src="https://github.com/user-attachments/assets/9674ec3c-0f37-4046-9c9b-f97b068417da" width="800px" style="border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2);">
-        </td>
+      <td align="center">
+        <kbd><img src="https://github.com/user-attachments/assets/9674ec3c-0f37-4046-9c9b-f97b068417da" width="800"/></kbd>
+      </td>
     </tr>
-
-    <!-- Admin Dashboard -->
+    <tr><td><br></td></tr>
     <tr>
-        <td align="center">
-            <img src="https://github.com/user-attachments/assets/0a741c5a-ea26-4f98-902b-0cd53141012e" width="800px" style="border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2);">
-        </td>
+      <td align="center">
+        <kbd><img src="https://github.com/user-attachments/assets/0a741c5a-ea26-4f98-902b-0cd53141012e" width="800"/></kbd>
+      </td>
     </tr>
-
-    <!-- Quiz Management -->
+    <tr><td><br></td></tr>
     <tr>
-        <td align="center">
-            <img src="https://github.com/user-attachments/assets/dfd531f8-6cbc-4053-9e46-d99e0528bb9b" width="800px" style="border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2);">
-        </td>
+      <td align="center">
+        <kbd><img src="https://github.com/user-attachments/assets/dfd531f8-6cbc-4053-9e46-d99e0528bb9b" width="800"/></kbd>
+      </td>
     </tr>
-
-    <!-- User Management -->
+    <tr><td><br></td></tr>
     <tr>
-        <td align="center">
-            <img src="https://github.com/user-attachments/assets/983b14b3-fb88-4fc9-8bdf-0225343871e3" width="800px" style="border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2);">
-        </td>
+      <td align="center">
+        <kbd><img src="https://github.com/user-attachments/assets/983b14b3-fb88-4fc9-8bdf-0225343871e3" width="800"/></kbd>
+      </td>
     </tr>
-
-    <!-- Analytics -->
+    <tr><td><br></td></tr>
     <tr>
-        <td align="center">
-            <img src="https://github.com/user-attachments/assets/b620e7d6-290a-41b3-b629-fa552ce1eac9" width="800px" style="border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2);">
-        </td>
+      <td align="center">
+        <kbd><img src="https://github.com/user-attachments/assets/b620e7d6-290a-41b3-b629-fa552ce1eac9" width="800"/></kbd>
+      </td>
     </tr>
-
-    <!-- Question Bank -->
+    <tr><td><br></td></tr>
     <tr>
-        <td align="center">
-            <img src="https://github.com/user-attachments/assets/e2bd0c6d-b6fa-4948-971c-edd68baae210" width="800px" style="border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2);">
-        </td>
+      <td align="center">
+        <kbd><img src="https://github.com/user-attachments/assets/e2bd0c6d-b6fa-4948-971c-edd68baae210" width="800"/></kbd>
+      </td>
     </tr>
-
-    <!-- Settings -->
+    <tr><td><br></td></tr>
     <tr>
-        <td align="center">
-            <img src="https://github.com/user-attachments/assets/2513316b-ddb1-42df-a3b0-15abf218ccc9" width="800px" style="border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2);">
-        </td>
+      <td align="center">
+        <kbd><img src="https://github.com/user-attachments/assets/2513316b-ddb1-42df-a3b0-15abf218ccc9" width="800"/></kbd>
+      </td>
     </tr>
-
-    <!-- Additional Feature -->
+    <tr><td><br></td></tr>
     <tr>
-        <td align="center">
-            <img src="https://github.com/user-attachments/assets/393be6f5-5193-4334-84ba-1496d81e0bb7" width="800px" style="border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; box-shadow: 0 6px 12px rgba(111,61,255,0.2);">
-        </td>
+      <td align="center">
+        <kbd><img src="https://github.com/user-attachments/assets/393be6f5-5193-4334-84ba-1496d81e0bb7" width="800"/></kbd>
+      </td>
     </tr>
-</table>
+  </table>
 </div>
-
 
 ## 📅 Development Strategy
 
