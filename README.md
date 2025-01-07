@@ -33,74 +33,44 @@ The Online Quiz System transforms traditional assessment methods by providing an
 - 🏆 User Rankings
 - 🔍 Search Functionality
 
-- ## ✨ Key Features
+## ✨ Key Features
 
 <div align="center">
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" height="60">
-        <h3>👤 User Management</h3>
-        <ul align="left">
-          <li>Secure Authentication System</li>
-          <li>Role-based Access Control</li>
-          <li>Profile Customization</li>
-          <li>Password Recovery</li>
-        </ul>
+        <h3>👤 User Authentication System</h3>
       </td>
       <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-e05e6f7c5519.png" width="60" height="60">
-        <h3>📊 Admin Dashboard</h3>
-        <ul align="left">
-          <li>Comprehensive Analytics</li>
-          <li>User Management Tools</li>
-          <li>System Configuration</li>
-          <li>Performance Monitoring</li>
-        </ul>
+        <h3>📊 Administrative Dashboard</h3>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" width="60" height="60">
-        <h3>📝 Quiz Management</h3>
-        <ul align="left">
-          <li>Dynamic Quiz Creation</li>
-          <li>Multiple Question Types</li>
-          <li>Timer Configuration</li>
-          <li>Question Bank</li>
-        </ul>
+        <h3>📝 Dynamic Quiz Creation</h3>
       </td>
       <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/216124642-6fe3795d-5ee9-4dc9-8b83-bd221f1d2c35.png" width="60" height="60">
-        <h3>🎯 Results & Feedback</h3>
-        <ul align="left">
-          <li>Instant Results Display</li>
-          <li>Detailed Performance Analysis</li>
-          <li>Progress Tracking</li>
-          <li>Score History</li>
-        </ul>
+        <h3>🎯 Instant Results & Feedback</h3>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/216124690-9afd5b9f-6817-4876-b865-95a45ea913c4.png" width="60" height="60">
-        <h3>📈 Analytics</h3>
-        <ul align="left">
-          <li>Performance Statistics</li>
-          <li>User Rankings</li>
-          <li>Progress Reports</li>
-          <li>Score Distribution</li>
-        </ul>
+        <h3>📈 Progress Tracking</h3>
       </td>
       <td width="50%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/216124716-2e04d759-28c1-4f6d-b77c-217b6d204754.png" width="60" height="60">
-        <h3>🔍 Advanced Features</h3>
-        <ul align="left">
-          <li>Smart Search Functionality</li>
-          <li>Export Results</li>
-          <li>Email Notifications</li>
-          <li>Mobile Responsive</li>
-        </ul>
+        <h3>🏆 User Rankings</h3>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" colspan="2">
+        <img src="https://user-images.githubusercontent.com/74038190/216128356-c5252242-6263-4f43-bd3e-56c798f8ac05.png" width="60" height="60">
+        <h3>🔍 Search Functionality</h3>
       </td>
     </tr>
   </table>
