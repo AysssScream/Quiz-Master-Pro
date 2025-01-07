@@ -87,10 +87,8 @@ Our development process followed a structured timeline:
 - **November 2023**: Core functionality development
 - **December 2023**: System enhancement and validation
 
-  
 <div align="center">
-  <p align="center" style="margin-bottom: -35px; z-index: 1; position: relative; font-family: 'Poppins', sans-serif; font-size: 16px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Developed+with+%E2%9D%A4%EF%B8%8F+by+Group+JOMAJEJO" alt="Footer Text"/>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=6F3DFF&center=true&vCenter=true&width=435&lines=Developed+with+%E2%9D%A4%EF%B8%8F+by+Group+JOMAJEJO" alt="Footer Text"/>
+  <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
