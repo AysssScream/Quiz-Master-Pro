@@ -1,0 +1,42 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: url(MainPics/t17.png) no-repeat center center; 
+    background-size: cover;
+    margin: 0; /* Reset any default margin */
+    padding: 0; /* Reset any default padding */
+    overflow-x: hidden; /* Prevent horizontal scrollbar */
+}
+
+/* Other styles remain unchanged */
+
+.challenge-container {
+    position: absolute; /* Changed from fixed to absolute */
+    top: 40%; /* Adjust this value to position the container lower than the header */
+    left: 60%;
+    transform: translateX(-50%); /* Only horizontally centering the element */
+    z-index: 1000;
+    background-color: rgba(255, 255, 255, 0.877);
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 80%;
+    color: aliceblue;
+    max-width: 600px;
+}
+
+
+.challenge-button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s;
+}
+
+.challenge-button:hover {
+    background-color: #0056b3;
+}

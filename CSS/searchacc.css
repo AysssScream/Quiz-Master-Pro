@@ -1,0 +1,211 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: url(../MainPics/b1.png) no-repeat center center fixed; 
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    height:100vh;
+    align-items: center;
+}
+
+.container {
+    width: 100%; 
+    max-width: 1400px;
+    margin-top: 400px;
+    padding-top: 200px; 
+    margin-bottom: 20px;
+}
+
+.card-container {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 20px;
+}
+
+.account-card {
+    border-radius: 20px;
+    box-shadow: 0px 10px 15px #31087e;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    border: 2px solid #000000; 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 400px;
+}
+
+.card-content {
+    padding: 20px;
+    background-color: #f3f0f8;
+}
+
+.card-title {
+    background-color: #5d3f92;
+    color: #fff;
+    padding: 20px;
+    border-radius: 20px 20px 0 0;
+    margin: -20px -20px 20px -20px; 
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 800;
+}
+
+.card-content p {
+    margin: 10px 0;
+    line-height: 1.6;
+    color: #333;
+}
+
+.card-actions {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease; 
+    margin: 0 5px;
+}
+
+.btn-success {
+    background-color: #46a049; 
+}
+
+.btn-danger {
+    background-color: #e33e33; 
+}
+
+.btn:hover {
+    transform: translateY(-2px); 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+@media screen and (max-width: 768px) {
+    .card-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+.account-card:hover {
+    transform: translateY(-5px); 
+    box-shadow: 0px 15px 20px rgba(49, 8, 126, 0.5); 
+}
+
+
+.container {
+    width: 1500px; 
+    max-width: 1400px;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    max-height: 750px;
+    padding: 20px;
+}
+
+.search-wrapper {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.search-wrapper form {
+    display: flex;
+    width: 100%;
+    max-width: 600px;
+}
+
+.search-wrapper input[type="search"] {
+    flex: 1;
+    padding: 10px;
+    border-radius: 5px 0 0 5px;
+    border: 1px solid #ddd;
+}
+
+.search-btn {
+    padding: 10px;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    color: white;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 50px;
+}
+
+.account-card {
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    padding: 20px;
+    transition: box-shadow 0.3s;
+}
+
+.account-card:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    background-color: #5d3f92;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.card-content p {
+    margin-bottom: 10px;
+    font-size: 0.95rem;
+}
+
+.card-actions {
+    text-align: right;
+    margin-top: 10px;
+}
+
+.btn {
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+    font-size: 0.85rem;
+    margin: 0 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-success {
+    background-color: #28a745;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+}
+
+@media screen and (max-width: 768px) {
+    .card-container {
+        grid-template-columns: 1fr;
+    }
+}

@@ -1,0 +1,143 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to bottom, #020296, #664dd8, #7879c9, #9496f0, #7a7ae7);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: hidden;
+}
+.form-group label i {
+    margin-top: 0;
+    margin-right: 5px;
+    color: #ffffff; 
+}
+
+
+.form-group label {
+    display: flex;
+    align-items: center;
+    font-weight: 600; 
+}
+
+.form-control {
+    margin-bottom: 10px; 
+}
+
+.btn-primary {
+    font-weight: 600;
+    margin-bottom: 120px;
+
+}
+
+.container {
+    margin-top: 100px;
+    background: linear-gradient(to bottom, #541cbb, #181ab3);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 90%; 
+    width: 1700px; 
+    height: 105vh; 
+    color: #fff; 
+    padding: 20px;
+    margin: auto; 
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    height:100vh;
+    align-items: center;
+}
+
+.form-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%; 
+}
+
+.form-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px; 
+}
+
+.form-group label {
+    margin-bottom: 5px;
+    color: #ffffff;
+}
+
+.form-group.third-width, .form-group.half-width {
+    flex: 1; 
+    margin-right: 10px; 
+}
+
+.form-row > .form-group:last-child {
+    margin-right: 0;
+}
+
+.form-group.full-width {
+    flex: 1; 
+}
+
+.form-group.third-width:last-child,
+.form-group.half-width:last-child {
+    margin-right: 0; 
+}
+
+.form-control {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ffffff;
+}
+
+.btn-primary {
+    padding: 15px 30px; 
+    font-size: 1rem; 
+    cursor: pointer;
+    border: none; 
+    border-radius: 5px; 
+    width: auto; 
+    align-self: center; 
+    align-items: center;
+    width: 300px;
+    height: 50px;
+}
+
+.btn-secondary {
+    background-color: #d9534f; 
+    color: #ffffff;
+    padding: 15px 30px;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    align-self: center;
+    width: 300px;
+    height: 50px;
+    margin-bottom: 120px;
+}
+
+.button-group {
+    display: flex; 
+    justify-content: center; 
+    gap: 10px; 
+}

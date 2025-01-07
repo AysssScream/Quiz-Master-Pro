@@ -1,0 +1,133 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to bottom, #020296, #664dd8, #7879c9, #9496f0, #7a7ae7);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.container {
+    background: linear-gradient(to bottom, #541cbb, #181ab3);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 90%;
+    width: 1700px; /* Adjust the width as needed */
+    color: #fff;
+    padding: 20px;
+    margin: auto; /* Centers the container */
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto; /* Enables vertical scrolling if content overflows */
+    max-height: calc(82vh - 50px); /* Adjust the max height as needed */
+
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    }
+    
+    .form-group label {
+    color: #ffffff;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 5px;
+    }
+    
+    .form-control {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    color: #333;
+    width: 100%;
+    margin-bottom: 10px;
+    }
+    
+    .button-group {
+    display: flex;
+    justify-content: space-between;
+    }
+    
+    .btn-primary, .btn-secondary {
+    padding: 15px 30px;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    width: 48%; /* Makes both buttons equal width /
+    margin: 0; / Adjust margin as needed */
+    }
+    
+    .btn-primary {
+    background-color: #4CAF50; /* Primary button color */
+    color: #ffffff;
+    }
+    
+    .btn-secondary {
+    background-color: #d9534f; /* Secondary button color */
+    color: #ffffff;
+    }
+    
+    .button-group {
+        flex-direction: column;
+    }
+
+    .form-row {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns based on your layout */
+        gap: 20px; /* Spacing between columns */
+    }
+    
+    .form-group {
+        display: flex;
+        flex-direction: column;
+    }
+    
+/* Existing CSS for .form-row */
+.form-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Change this for specific rows */
+    gap: 20px;
+}
+
+/* New CSS for specific rows */
+/* Row 3: Gender, Birthdate */
+.row-gender-birthdate {
+    grid-template-columns: repeat(2, 1fr); /* Two equal columns */
+}
+
+/* Row 4: Contact Number, Address */
+.row-contact-address {
+    grid-template-columns: repeat(2, 1fr); /* Two equal columns */
+}
+
+/* Adjust the width of input fields */
+.form-control {
+    width: 100%; /* This makes the input take full width of the column */
+    /* Add more styling if needed */
+}
+
+.button-group {
+    display: flex;
+    flex-direction: row; /* Change from column to row to align buttons horizontally */
+    justify-content: center; /* This will center the buttons in the button group */
+}
+
+.btn-primary, .btn-secondary {
+    padding: 15px 30px;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin: 0 5px; 
+    height: 50px;
+}

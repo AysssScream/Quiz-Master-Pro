@@ -1,0 +1,300 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    position: fixed;
+    background: linear-gradient(to right, #541cbb, #181ab3);
+    padding: 20px;
+    box-shadow: 0px 10px 15px #31087e;
+    width: 100%;
+    height: 30px;
+}
+
+.header .logo {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    margin-left: 15px;
+}
+ion-icon {
+    font-size: 1.5em; 
+    color: white; 
+}
+
+.header .logo img {
+    vertical-align: middle;
+    height: auto;
+    max-height: 36px; /* Control the size of the image */
+}
+
+.left_area h3{
+    color: #fff;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.left_area span{
+    color: #1DC4E7;
+}
+
+.sidebar {
+    background: linear-gradient(to bottom, #541cbb, #181ab3);
+    margin-top: 70px;
+    padding-top: 30px;
+    position: fixed;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    transition: 0.5s;
+    transition-property: left;
+    z-index: 1000; 
+}
+
+.sidebar .profile_image {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin-bottom: 10px;
+}
+
+.sidebar h4 {
+    color: #ccc;
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+.sidebar a {
+    color: #fff;
+    display: block;
+    width: 100%;
+    line-height: 60px;
+    text-decoration: none;
+    padding-left: 40px;
+    box-sizing: border-box;
+    transition: 0.5s;
+    transition-property: background;
+}
+
+.sidebar a:hover {
+    background: purple;
+}
+
+.sidebar i {
+    padding-right: 10px;
+}
+
+label #sidebar_btn {
+    z-index: 1;
+    color: #fff;
+    position: fixed;
+    cursor: pointer;
+    left: 260px;
+    font-size: 20px;
+    margin: 5px 0;
+    transition: 0.5s;
+    transition-property: color;
+}
+
+label #sidebar_btn:hover {
+    color: purple;
+}
+
+#check:checked ~ .sidebar {
+    left: -190px;
+}
+
+#check:checked ~ .sidebar a span {
+    display: none;
+}
+
+#check:checked ~ .sidebar a {
+    font-size: 20px;
+    margin-left: 170px;
+    width: 80px;
+}
+
+.content {
+    margin-left: 250px;
+    background: url(MainPics/b1.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    transition: 0.5s;
+}
+
+#check:checked ~ .content {
+    margin-left: 60px;
+}
+
+#check {
+    display: none;
+}
+
+footer {
+    position:fixed;
+    background: linear-gradient(to right, #181ab3, #541cbb);
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    box-shadow: 0px -6px 10px rgba(0, 0, 0, 0.5);
+    z-index: 2;
+}
+
+.datetime {
+    background: #541cbb; 
+    color: #fff; 
+    font-size: 1em; 
+    border-radius: 20px;
+    padding: 10px 20px; 
+    display: inline-flex; 
+    align-items: center; 
+    gap: 10px; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    font-family: 'Poppins', sans-serif; 
+    font-weight: normal; 
+    margin-right: 20px; 
+    top: 10px; 
+    right: 20px; /* Adjust this value to push the element to the right side */
+    top: 10px; /* You can adjust this if needed */
+    position: fixed; /* Keep it fixed at the top-right corner */
+    z-index: 100; 
+  }
+  
+  .datetime i {
+    font-size: 1.2em; 
+  }
+  
+
+  
+  
+  .modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: hidden; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.582); /* Black w/ opacity */
+    padding-top: 60px;
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 5% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 40%; /* Could be more or less, depending on screen size */
+    border-radius: 5px; /* Optional: Rounded corners */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Optional: Shadow for depth */
+}
+
+
+.modal-content p {
+    margin: 20px 0; /* Spacing */
+    font-size: 18px; /* Larger font size for the message */
+    text-align: center; /* Center the text */
+}
+
+.modal-content button {
+    padding: 15px 100px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#confirmSignOut {
+    background: linear-gradient(to bottom, #6d3cc9, #3537d3);
+    color: white;
+}
+
+#cancelSignOut {
+    background: linear-gradient(to bottom, #6d3cc9, #3537d3);
+    color: white;
+}
+
+#confirmSignOut:hover, #cancelSignOut:hover {
+    opacity: 0.8;
+}
+
+.modal-header,
+.modal-footer {
+  padding: 5px 15px; 
+  background: linear-gradient(to bottom, #6d3cc9, #3537d3);
+  text-align: center; 
+  padding: 10px 15px; 
+  display: flex; 
+  color: white;
+  justify-content: center; 
+  align-items: center; 
+  height: 40px; 
+}
+
+.modal-header {
+    position: relative; 
+    margin-bottom: 10px;
+}
+
+.modal-footer {
+  border-radius: 0 0 6px 6px; 
+  text-align: center; 
+}
+
+.close {
+    position: absolute;
+    top: 10px; 
+    right: 20px; 
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin-top: 20px; 
+    font-weight: bold;
+}
+
+.modal-header i,
+.button-container button i {
+    margin-right: 8px; 
+}
+
+.sidebar a {
+    font-weight: bold; 
+    font-size: 18px; 
+    margin-bottom: 20px;
+}
+
+.sidebar a span {
+    font-weight: bold;
+}
+
+.sidebar a i {
+    font-size: 18px; 
+}
