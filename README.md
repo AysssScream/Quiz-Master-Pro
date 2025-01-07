@@ -75,45 +75,12 @@ Our development process followed a structured timeline:
 <div align="center">
   <table border="0" width="100%">
     <tr>
-      <td align="center" width="25%" style="padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" style="margin-bottom: 10px;">
-        <h4>September 2023</h4>
-        <img src="https://img.shields.io/badge/Project_Initialization-6F3DFF?style=for-the-badge"/>
-        <p>Project initialization and team formation</p>
-      </td>
-      <td align="center" width="25%" style="padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/216125640-2489a3c4-730f-4519-b2d9-0b7d8c5a1dde.png" width="100" style="margin-bottom: 10px;">
-        <h4>October 2023</h4>
-        <img src="https://img.shields.io/badge/UI/UX_Design-6F3DFF?style=for-the-badge"/>
-        <p>UI/UX design and planning phase</p>
-      </td>
-      <td align="center" width="25%" style="padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" width="100" style="margin-bottom: 10px;">
-        <h4>November 2023</h4>
-        <img src="https://img.shields.io/badge/Core_Development-6F3DFF?style=for-the-badge"/>
-        <p>Core functionality development</p>
-      </td>
-      <td align="center" width="25%" style="padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/216124642-6fe3795d-5d93-4f89-9eea-b20328c61386.png" width="100" style="margin-bottom: 10px;">
-        <h4>December 2023</h4>
-        <img src="https://img.shields.io/badge/System_Enhancement-6F3DFF?style=for-the-badge"/>
-        <p>System enhancement and validation</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Alternative Version with Timeline -->
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td>
+      <td width="45%">
         <div style="display: flex; align-items: center; margin: 20px 0;">
-          <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80">
-          <div style="margin-left: 20px;">
+          <div style="text-align: right; padding-right: 20px;">
             <h3>📍 Phase 1: Project Initialization</h3>
             <p><b>September 2023</b></p>
-            <ul>
+            <ul align="right" style="list-style-position: inside;">
               <li>Team formation and role assignment</li>
               <li>Project scope definition</li>
               <li>Initial planning and documentation</li>
@@ -121,15 +88,15 @@ Our development process followed a structured timeline:
           </div>
         </div>
       </td>
-    </tr>
-    <tr>
-      <td>
+      <td width="10%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100">
+      </td>
+      <td width="45%">
         <div style="display: flex; align-items: center; margin: 20px 0;">
-          <img src="https://user-images.githubusercontent.com/74038190/216125640-2489a3c4-730f-4519-b2d9-0b7d8c5a1dde.png" width="80">
-          <div style="margin-left: 20px;">
+          <div style="text-align: left; padding-left: 20px;">
             <h3>🎨 Phase 2: Design & Planning</h3>
             <p><b>October 2023</b></p>
-            <ul>
+            <ul align="left" style="list-style-position: inside;">
               <li>UI/UX wireframing and prototyping</li>
               <li>Database schema design</li>
               <li>Technology stack finalization</li>
@@ -139,13 +106,12 @@ Our development process followed a structured timeline:
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="45%">
         <div style="display: flex; align-items: center; margin: 20px 0;">
-          <img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" width="80">
-          <div style="margin-left: 20px;">
+          <div style="text-align: right; padding-right: 20px;">
             <h3>⚙️ Phase 3: Core Development</h3>
             <p><b>November 2023</b></p>
-            <ul>
+            <ul align="right" style="list-style-position: inside;">
               <li>Backend development and API integration</li>
               <li>Frontend implementation</li>
               <li>Database setup and configuration</li>
@@ -153,15 +119,15 @@ Our development process followed a structured timeline:
           </div>
         </div>
       </td>
-    </tr>
-    <tr>
-      <td>
+      <td width="10%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100">
+      </td>
+      <td width="45%">
         <div style="display: flex; align-items: center; margin: 20px 0;">
-          <img src="https://user-images.githubusercontent.com/74038190/216124642-6fe3795d-5d93-4f89-9eea-b20328c61386.png" width="80">
-          <div style="margin-left: 20px;">
+          <div style="text-align: left; padding-left: 20px;">
             <h3>🚀 Phase 4: Enhancement & Validation</h3>
             <p><b>December 2023</b></p>
-            <ul>
+            <ul align="left" style="list-style-position: inside;">
               <li>System testing and bug fixing</li>
               <li>Performance optimization</li>
               <li>Final deployment and documentation</li>
