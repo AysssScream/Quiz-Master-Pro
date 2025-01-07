@@ -62,13 +62,61 @@ The Online Quiz System transforms traditional assessment methods by providing an
   </table>
 </div>
 
+## 📸 System Screenshots
 
-## 📅 Development Strategy
-Our development process followed a structured timeline:
-- **September 2023**: Project initialization and team formation
-- **October 2023**: UI/UX design and planning
-- **November 2023**: Core functionality development
-- **December 2023**: System enhancement and validation
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="[your-login-page-screenshot.png]" alt="Login Page" width="100%" style="border-radius: 10px;">
+        <h4>Login Interface</h4>
+      </td>
+      <td width="50%" align="center">
+        <img src="[your-registration-page-screenshot.png]" alt="Registration Page" width="100%" style="border-radius: 10px;">
+        <h4>Registration Page</h4>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="[your-dashboard-screenshot.png]" alt="Dashboard" width="100%" style="border-radius: 10px;">
+        <h4>User Dashboard</h4>
+      </td>
+      <td width="50%" align="center">
+        <img src="[your-quiz-interface-screenshot.png]" alt="Quiz Interface" width="100%" style="border-radius: 10px;">
+        <h4>Quiz Interface</h4>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="[your-admin-dashboard-screenshot.png]" alt="Admin Dashboard" width="100%" style="border-radius: 10px;">
+        <h4>Admin Dashboard</h4>
+      </td>
+      <td width="50%" align="center">
+        <img src="[your-results-page-screenshot.png]" alt="Results Page" width="100%" style="border-radius: 10px;">
+        <h4>Results Page</h4>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Alternative Carousel Style -->
+<div align="center">
+  <h4>Login & Registration</h4>
+  <img src="[your-login-page-screenshot.png]" alt="Login Page" width="80%" style="border-radius: 10px; margin: 10px;">
+  
+  <h4>User Interface</h4>
+  <img src="[your-dashboard-screenshot.png]" alt="Dashboard" width="80%" style="border-radius: 10px; margin: 10px;">
+  
+  <h4>Quiz Features</h4>
+  <img src="[your-quiz-interface-screenshot.png]" alt="Quiz Interface" width="80%" style="border-radius: 10px; margin: 10px;">
+  
+  <h4>Admin Controls</h4>
+  <img src="[your-admin-dashboard-screenshot.png]" alt="Admin Dashboard" width="80%" style="border-radius: 10px; margin: 10px;">
+  
+  <h4>Results & Analytics</h4>
+  <img src="[your-results-page-screenshot.png]" alt="Results Page" width="80%" style="border-radius: 10px; margin: 10px;">
+</div>
+
 
 ## 📅 Development Strategy
 
