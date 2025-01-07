@@ -64,58 +64,72 @@ The Online Quiz System transforms traditional assessment methods by providing an
 
 ## 📸 System Screenshots
 
+## 📸 System Screenshots
+
 <div align="center">
   <table border="0" width="100%">
+    <!-- Login and Registration -->
     <tr>
       <td width="50%" align="center">
-        <img src="[your-login-page-screenshot.png]" alt="Login Page" width="100%" style="border-radius: 10px;">
-        <h4>Login Interface</h4>
+        <img src="https://github.com/user-attachments/assets/e706e462-82a3-4bfa-a5a7-ce29021438e5" alt="Login Page" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       </td>
       <td width="50%" align="center">
-        <img src="[your-registration-page-screenshot.png]" alt="Registration Page" width="100%" style="border-radius: 10px;">
-        <h4>Registration Page</h4>
+        <img src="https://github.com/user-attachments/assets/c591b970-cdda-4dfb-b2b1-1925ca726217" alt="Registration Page" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       </td>
     </tr>
+
+    <!-- User Dashboard -->
     <tr>
       <td width="50%" align="center">
-        <img src="[your-dashboard-screenshot.png]" alt="Dashboard" width="100%" style="border-radius: 10px;">
-        <h4>User Dashboard</h4>
+        <img src="https://github.com/user-attachments/assets/aa27f8e0-d598-4f66-9314-4d841ebaac12" alt="User Dashboard" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       </td>
       <td width="50%" align="center">
-        <img src="[your-quiz-interface-screenshot.png]" alt="Quiz Interface" width="100%" style="border-radius: 10px;">
-        <h4>Quiz Interface</h4>
+        <img src="https://github.com/user-attachments/assets/12c06230-1d43-4a58-9732-e61cb8a4d42d" alt="Quiz Selection" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       </td>
     </tr>
+
+    <!-- Quiz Interface -->
     <tr>
       <td width="50%" align="center">
-        <img src="[your-admin-dashboard-screenshot.png]" alt="Admin Dashboard" width="100%" style="border-radius: 10px;">
-        <h4>Admin Dashboard</h4>
+        <img src="https://github.com/user-attachments/assets/bf556a47-a20a-4fcb-b88f-85f0ffec491f" alt="Quiz Interface" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       </td>
       <td width="50%" align="center">
-        <img src="[your-results-page-screenshot.png]" alt="Results Page" width="100%" style="border-radius: 10px;">
-        <h4>Results Page</h4>
+        <img src="https://github.com/user-attachments/assets/9674ec3c-0f37-4046-9c9b-f97b068417da" alt="Quiz Results" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      </td>
+    </tr>
+
+    <!-- Admin Features -->
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github.com/user-attachments/assets/0a741c5a-ea26-4f98-902b-0cd53141012e" alt="Admin Dashboard" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github.com/user-attachments/assets/dfd531f8-6cbc-4053-9e46-d99e0528bb9b" alt="Quiz Management" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      </td>
+    </tr>
+
+    <!-- Additional Features -->
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github.com/user-attachments/assets/983b14b3-fb88-4fc9-8bdf-0225343871e3" alt="User Management" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github.com/user-attachments/assets/b620e7d6-290a-41b3-b629-fa552ce1eac9" alt="Analytics" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      </td>
+    </tr>
+
+    <!-- System Features -->
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github.com/user-attachments/assets/e2bd0c6d-b6fa-4948-971c-edd68baae210" alt="Question Bank" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github.com/user-attachments/assets/2513316b-ddb1-42df-a3b0-15abf218ccc9" alt="Settings" width="100%" style="border: 3px solid #6F3DFF; border-radius: 10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Alternative Carousel Style -->
-<div align="center">
-  <h4>Login & Registration</h4>
-  <img src="[your-login-page-screenshot.png]" alt="Login Page" width="80%" style="border-radius: 10px; margin: 10px;">
-  
-  <h4>User Interface</h4>
-  <img src="[your-dashboard-screenshot.png]" alt="Dashboard" width="80%" style="border-radius: 10px; margin: 10px;">
-  
-  <h4>Quiz Features</h4>
-  <img src="[your-quiz-interface-screenshot.png]" alt="Quiz Interface" width="80%" style="border-radius: 10px; margin: 10px;">
-  
-  <h4>Admin Controls</h4>
-  <img src="[your-admin-dashboard-screenshot.png]" alt="Admin Dashboard" width="80%" style="border-radius: 10px; margin: 10px;">
-  
-  <h4>Results & Analytics</h4>
-  <img src="[your-results-page-screenshot.png]" alt="Results Page" width="80%" style="border-radius: 10px; margin: 10px;">
-</div>
 
 
 ## 📅 Development Strategy
