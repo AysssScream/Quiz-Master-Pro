@@ -32,7 +32,110 @@ The Online Quiz System transforms traditional assessment methods by providing an
 - 📈 Progress Tracking
 - 🏆 User Rankings
 - 🔍 Search Functionality
-- 📱 Responsive Design
+
+- ## ✨ Features
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
+        <br>
+        <h3>👤 User Authentication System</h3>
+        <ul align="left">
+          <li>Secure login and registration</li>
+          <li>Password encryption</li>
+          <li>User profile management</li>
+          <li>Role-based access control</li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
+        <br>
+        <h3>📊 Administrative Dashboard</h3>
+        <ul align="left">
+          <li>Comprehensive admin controls</li>
+          <li>User management system</li>
+          <li>Activity monitoring</li>
+          <li>System configuration</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/235294006-08fbb28f-5238-4469-8a88-2c8e55f08c7f.gif" width="100">
+        <br>
+        <h3>📝 Dynamic Quiz Creation</h3>
+        <ul align="left">
+          <li>Multiple question types</li>
+          <li>Customizable time limits</li>
+          <li>Question bank management</li>
+          <li>Category-based organization</li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
+        <br>
+        <h3>🎯 Instant Results & Feedback</h3>
+        <ul align="left">
+          <li>Real-time score calculation</li>
+          <li>Detailed answer explanations</li>
+          <li>Performance analytics</li>
+          <li>Progress visualization</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/235294013-0d43dbc6-167b-4a63-8994-5107f5f5c00c.gif" width="100">
+        <br>
+        <h3>📈 Progress Tracking</h3>
+        <ul align="left">
+          <li>Performance history</li>
+          <li>Learning analytics</li>
+          <li>Achievement badges</li>
+          <li>Progress reports</li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100">
+        <br>
+        <h3>🏆 User Rankings</h3>
+        <ul align="left">
+          <li>Global leaderboard</li>
+          <li>Category-wise ranking</li>
+          <li>Achievement system</li>
+          <li>Competitive features</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+        <br>
+        <h3>🔍 Search Functionality</h3>
+        <ul align="left">
+          <li>Advanced search filters</li>
+          <li>Category-based search</li>
+          <li>Quick access to quizzes</li>
+          <li>Search history</li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+        <br>
+        <h3>🎨 Additional Features</h3>
+        <ul align="left">
+          <li>Responsive design</li>
+          <li>Dark/Light mode</li>
+          <li>Performance optimization</li>
+          <li>Regular updates</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## 🛠 Tech Stack
 <div align="center">
