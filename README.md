@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=190&section=header&text=📝%20ONLINE%20QUIZ%20SYSTEM&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Empowering%20Learning%20Through%20Interactive%20Assessment&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=6F3DFF&height=150&section=header&text=📝%20ONLINE%20QUIZ%20SYSTEM&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&lines=Interactive+Learning+Platform;Instant+Feedback+System;Secure+Assessment+Tool;User-Friendly+Interface;Comprehensive+Quiz+Management&repeat=true&duration=3000" alt="Typing SVG" />
-  <br>
+  <!-- Educational/Quiz Icons Animation -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&lines=📚+Learn;✍️+Practice;📊+Assess;🎯+Improve;🏆+Succeed&repeat=true&duration=3000" alt="Typing SVG" />
+  </p>
 
   <div>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -11,19 +13,14 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </div>
-  <br>
 
-  <!-- Quiz-related animation -->
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-  </div>
+  <!-- Educational/Development Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
-[Rest of your README content follows...]
+
 
 
 ## 📋 Table of Contents
