@@ -2,25 +2,31 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=6F3DFF&height=150&section=header&text=📝%20QUIZ%20MASTER%20PRO&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
   <!-- Educational/Quiz Icons Animation -->
-  <p align="center">
+  <div style="margin: 40px 0;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&lines=📚+Learn;✍️+Practice;📊+Assess;🎯+Improve;🏆+Succeed&repeat=true&duration=3000" alt="Typing SVG" />
-  </p>
+  </div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&lines=Interactive+Learning+Platform;Instant+Feedback+System;Secure+Assessment+Tool;User-Friendly+Interface;Comprehensive+Quiz+Management&repeat=true&duration=3000" alt="Typing SVG" />
-  <br>
+  <div style="margin: 30px 0;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&lines=Interactive+Learning+Platform;Instant+Feedback+System;Secure+Assessment+Tool;User-Friendly+Interface;Comprehensive+Quiz+Management&repeat=true&duration=3000" alt="Typing SVG" />
+  </div>
 
   <!-- Educational/Development Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
-  <br>
+  <div style="margin: 50px 0;">
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
+  </div>
 
-  <div>
+  <!-- Tech Stack Badges -->
+  <div style="margin: 40px 0;">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    &nbsp;
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    &nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    &nbsp;
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    &nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </div>
-  <br>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
